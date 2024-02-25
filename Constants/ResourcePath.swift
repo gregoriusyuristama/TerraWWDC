@@ -14,4 +14,5 @@ struct ResourcePath {
     static let homeOutside = "Home-Outside"
     static let officeCanteen = "Office-Canteen"
     static let office = "Office"
+    static let startMenu = "Start-Menu"
 }
